@@ -23,9 +23,9 @@ jobs:
           curl -o ./merged_output.txt https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 
       # 删除前四行
-      - name: Edit File - Remove First 4 Lines
+      - name: Edit File - Remove First 6 Lines
         run: |
-          sed -i '1,4d' ./merged_output.txt
+          sed -i '1,6d' ./merged_output.txt
 
       # 提交更新到自己的仓库
       - name: Commit and Push Changes
