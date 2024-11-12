@@ -1,12 +1,6 @@
-更新时间,#genre#
-20241112 09:11:05,https://gitee.com/kabigo/tv/raw/master/assets/about1080p.mp4
-关于本源,https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4
-每日一首,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_6401404&response=res&format=mp4&type=convert_url
 
 
 💓专享源🅰️,#genre#
-📹️直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-🐼直播熊猫🥇,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 
 NEWTV超级电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000003000012426/
 NEWTV超级电影,http://[2409:8087:74d9:21::6]/270000001128/9900000021/index.m3u8
